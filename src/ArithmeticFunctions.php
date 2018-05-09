@@ -59,7 +59,7 @@ class ArithmeticFunctions
         }
     }
 
-    public static function avegare($args) {
+    public static function average($args) {
         return sizeof($args) > 0 ? round( array_sum($args) / count($args), 2) : 0;
     }
 
@@ -91,7 +91,7 @@ class ArithmeticFunctions
         return $primefactors;
     }
 
-    public static function weightedAvegare($args) {
+    public static function weightedAverage($args) {
         $dividend = 0;
         $divisor = 0;
 
