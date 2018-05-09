@@ -7,8 +7,7 @@ Calculator is the only library you need to integrate mathematical functions into
 
 It is actively under development with development (0.y.z) releases.
 
-(https://packagist.org/packages/tboileau/upload-bundle)
-[![License](https://poser.pugx.org/tboileau/upload-bundle/license)](https://packagist.org/packages/tboileau/upload-bundle)
+[![License](https://poser.pugx.org/calc/arithmetic/license)](https://packagist.org/packages/calc/arithmetic)
 
 ## Prerequisites
 
