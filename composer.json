@@ -2,6 +2,7 @@
     "name": "calc/arithmetic",
     "description": "package for calculate arithmetic functions",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "bhumika",
