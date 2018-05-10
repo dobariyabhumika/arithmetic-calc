@@ -1,15 +1,17 @@
 {
     "name": "calc/arithmetic",
-    "description": "package for calculate arithmetic functions",
+    "description": "package for calculate arithmetic functions: GCD, LCM, average, weighted average, factors and primeFactors",
     "keywords": [
-        "greatest common divisor (gcd)",
-        "greatest common divisor for more then three number",
-        "least common multiple (lcm)",
-        "least common multiple for more then three number",
-        "average of numbers",
-        "factors of numbers",
-        "primeFactors of numbers",
-        "weighted average of multiple numbers with different weight"
+        "gcd",
+        "lcm",
+        "greatestCommonDivisor",
+        "greatestCommonDivisorForMultipleNumbers",
+        "leastCommonMultiple",
+        "leastCommonMultipleForMultipleNumbers",
+        "average",
+        "factors",
+        "primeFactors",
+        "weightedAverage"
     ],
     "type": "library",
     "version": "1.0.2",
