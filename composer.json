@@ -9,7 +9,7 @@
         "average of numbers",
         "factors of numbers",
         "primeFactors of numbers",
-        "weighted average of numbers"
+        "weighted average of multiple numbers with different weight"
     ],
     "type": "library",
     "version": "1.0.2",
